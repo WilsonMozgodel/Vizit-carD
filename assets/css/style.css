@@ -17,7 +17,7 @@ html{
   
   @font-face {
     font-family: "Metropolis-SemiBold";
-    src: url(/assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-SemiBold.woff2);
+    src: url(assets/fonts/Metropolis-SemiBold.woff2);
   }
   
   #particles-js {
@@ -107,7 +107,7 @@ h2 {
 
 @font-face {
     font-family: "Metropolis-SemiBold";
-    src: url(/assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-SemiBold.woff2);
+    src: url(assets/fonts/Metropolis-SemiBold.woff2);
 }
 
 h3 {
