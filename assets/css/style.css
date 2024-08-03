@@ -17,7 +17,7 @@ html{
   
   @font-face {
     font-family: "Metropolis-Bold";
-    src: url(assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-Bold.woff2);
+    src: url(assets/fonts/Metropolis-Bold.woff2);
   }
   
   #particles-js {
@@ -107,7 +107,7 @@ h2 {
 
 @font-face {
     font-family: "Metropolis-Regular";
-    src: url(assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-Bold.woff2);
+    src: url(assets/fonts/Metropolis-Bold.woff2);
 }
 
 h3 {
