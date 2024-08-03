@@ -17,7 +17,7 @@ html{
   
   @font-face {
     font-family: "Metropolis-SemiBold";
-    src: url(assets/fonts/Metropolis-SemiBold.woff2);
+    src: url(/assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-SemiBold.woff2);
   }
   
   #particles-js {
@@ -75,7 +75,7 @@ html{
 }
 
 h2 {
-    font-family: ;
+    font-family: 'Metropolis-SemiBold', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font: raleway;
     font-size: 23px;
     display: flex;
@@ -107,7 +107,7 @@ h2 {
 
 @font-face {
     font-family: "Metropolis-SemiBold";
-    src: url(assets/fonts/Metropolis-SemiBold.woff2);
+    src: url(/assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-SemiBold.woff2);
 }
 
 h3 {
@@ -126,9 +126,6 @@ h3 {
 
 
 
-.button__block {
-    
-}
 
 .button__link {
     gap: 6px;
