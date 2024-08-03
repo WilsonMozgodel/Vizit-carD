@@ -16,8 +16,8 @@ html{
   }
   
   @font-face {
-    font-family: "Metropolis-SemiBold";
-    src: url(assets/fonts/Metropolis-SemiBold.woff2);
+    font-family: "Metropolis-Bold";
+    src: url(assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-Bold.woff2);
   }
   
   #particles-js {
@@ -75,7 +75,7 @@ html{
 }
 
 h2 {
-    font-family: 'Metropolis-SemiBold', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Metropolis-Bold";
     font: raleway;
     font-size: 23px;
     display: flex;
@@ -106,12 +106,12 @@ h2 {
 }
 
 @font-face {
-    font-family: "Metropolis-SemiBold";
-    src: url(assets/fonts/Metropolis-SemiBold.woff2);
+    font-family: "Metropolis-Regular";
+    src: url(assets/fonts/Metropolis-r11/Metropolis-r11/Fonts/Webfonts/WOFF2/Metropolis-Bold.woff2);
 }
 
 h3 {
-    font-family: 'Metropolis-SemiBold', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Metropolis-Regular', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 22px; /* Размер шрифта установлен на 245 пикселей */
     display: flex;
     justify-content: center;
@@ -120,9 +120,10 @@ h3 {
     color: rgb(228, 228, 231); /* Цвет текста — белый */
     padding: 40px 0; /* Внутренние отступы: 40 пикселей сверху и снизу */
     width: auto; /* Автоматическая ширина */
-    font-weight: 900; /* Жирный шрифт */
+    font-weight: normal; /* Жирный шрифт */
     height: 50px; /* Фиксированная высота 50 пикселей */
 }
+
 
 
 
@@ -180,8 +181,8 @@ h3 {
     border-radius: 8px;
     width: 260px; /* Установите одинаковую ширину для всех кнопок */
     text-decoration: none;
-    font-family: 'Metropolis-SemiBold', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: 900;
+    font-family: 'Metropolis-Regular';
+    font-weight: normal;
 }
 
 
@@ -216,9 +217,9 @@ h3 {
 }
 
 span {
-    font-family: 'Metropolis-SemiBold', Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* Установка шрифта Metropolis */
+    font-family: 'Metropolis-Regular', Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* Установка шрифта Metropolis */
     font-size: larger;
-    font-weight: bold;
+    font-weight: normal;
     text-rendering: optimizeLegibility;
     color: rgb(228, 228, 231);
 }
